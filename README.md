@@ -1,5 +1,5 @@
-# Web Frontend SHINE SMILE - Dịch vụ nha khoa
+# Shine Smile - Dịch vụ nha khoa
 
-Link figma web: https://www.figma.com/design/9onqgKUvwZFrxvAsskMSdJ/
+Link Figma: https://www.figma.com/design/9onqgKUvwZFrxvAsskMSdJ/
 
-Link demo web: https://lgkai.github.io/project3_shine-smile/
+Link Demo: https://lgkai.github.io/Shine-Smile/
